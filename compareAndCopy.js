@@ -1,4 +1,4 @@
-// Code.gs
+
 
 function compareAndCopy() {
   // Get the Script Properties
